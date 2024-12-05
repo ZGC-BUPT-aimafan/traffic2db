@@ -1,0 +1,11 @@
+.venv
+__pycache__/
+*.pyc
+.vscode
+logs/*
+!logs/.gitkeep
+test*
+data/*
+!/data/.gitkeep
+.DS_Store
+config/config.ini
